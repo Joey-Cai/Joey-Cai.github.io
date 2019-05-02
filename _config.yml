@@ -7,7 +7,7 @@
 
 # Site settings
 title: 蔡金彬的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: Machine-Learning and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Joey-Cai.github.io" # the base hostname & protocol for your site
 
@@ -35,8 +35,8 @@ description_footer: 来自蔡金彬的个人专栏！
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+#baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
+#google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
