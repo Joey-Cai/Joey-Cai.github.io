@@ -7,7 +7,7 @@
 
 # Site settings
 title: 蔡金彬的技术专栏
-brief-intro: Machine-Learning and Python Coder
+brief-intro: Machine-Learning Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Joey-Cai.github.io" # the base hostname & protocol for your site
 
