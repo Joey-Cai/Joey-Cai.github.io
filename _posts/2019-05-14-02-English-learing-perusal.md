@@ -14,20 +14,34 @@ author: Joey
 
 ### 同义替换
 
-1. 在以下句子中 cite(引用) = mention(提及) =illstrated(说明=show)  
+1. 在以下句子中，
+
+    cite(引用) = mention(提及) =illstrated(说明=show)  
+
    + The example of... is ***cited*** to...
 
 2. A be billed as B =A be *labeled(标签)* as  B ：A被标榜为B
+
 3. transformative = revolutionary  ：革新的
+
 4. augmentation = advancement ：强化，提升
+
 5. grapple with = deal with 
+
 6. obstacle = barrier ：障碍
+
 7. formidable = strong
+
 8. undermine = destroy
+
 9. complicated = complex
+
 10. comprise = contain
+
 11. expertise = professional konwledge
+
 12. arduous = hard
+
 13. harness = use ：利用
 
 ***
@@ -35,29 +49,49 @@ author: Joey
 ### 识记单词
 
 1. paralyse：瘫痪，**无法行动**
+
 2. feat：n.  =achievement
+
 3. implant：v. ：植入
+
 4. neural：神经——neurous：神经元
+
 5. intention
    + =meaning
    + =aim
+
 6. detect =discover
+
 7. decode ：破译
+
 8. interface
    + communicate
    + 【计】接口
+
 9. stimulate = spur ：v. 刺激 
+
 10. convert = turn
+
 11. military = armed ：军用的
+
 12. privacy ：隐私
+
 13. refuge =shelter ：避难所
+
 14. hack ：骇客，黑客——窃取
+
 15. cognitive ：认知的——cognition：认知
+
 16. perpetuate：cause to continue or privail(=stay——其余意思：persuade)
+
 17. ethic ：伦理——ethicist：伦理学家——ethical=moral
+
 18. agency：代理
+
 19. loop = ring
+
 20. take into account =consider
+
 21. application  n.
     + apply
     + app
@@ -97,7 +131,27 @@ author: Joey
 
 38. **promising：有前途的**
 
-    
+39. **startup**：新兴公司(科技文章的常客)
+
+40. firm = company——film = movie
+
+41. **artificial intelligence：人工智能**
+
+42. entrepreneur：企业家
+
+43. envisage = conceive(=procreate：pregnancy) = imagine
+
+44. materialise = realize = come true
+
+45. remarkable = unusual =striking
+
+46. visual = optical：视觉的
+
+47. handful ：**n. **一把手数的过来，少数
+
+48. intervene ：干涉，介入
+
+    ​    
 
 ***
 
