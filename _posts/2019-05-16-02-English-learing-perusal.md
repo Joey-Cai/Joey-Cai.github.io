@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "精读 lesson2 笔记"
+title:  "精读 lesson2 笔记(泛读 lesson1 笔记)"
 categories: English learning
 tags:  perusal,Reading
 author: Joey
@@ -8,7 +8,7 @@ author: Joey
 
 
 
-# 精读 lesson2 笔记
+# 精读 lesson2 笔记(泛读 lesson1 笔记)
 
 ## 词汇
 
@@ -18,7 +18,7 @@ author: Joey
 2. disintegrate = break down =collapse = shatter
 3. hubris = arrogance ：得意忘形
 4. contradiction = confict ：矛盾
-5. founding = basic
+5. founding = basic = fundamental
 6. degenerate = degrade ：退化——upgrade ：升级
 7. oblige = responsibility
 8. drudgery = dull work ：苦工
@@ -98,6 +98,8 @@ author: Joey
 55. secure = protect
 56. mechanically ：机械地
 57. extreme ：极端的
+58. gap ：代沟、鸿沟
+59. occupy :
 
 ***
 
@@ -109,11 +111,13 @@ author: Joey
 
 ## 重点句分析
 
-* The founding(*basic*) tenets(*principle*、*doctrine*) of the faith have been shattered(*destroy*、*collapse*).
+* The founding(*basic*) tenets(*principle*、*doctrine*) of ==the faith=== have been shattered(*destroy*、*collapse*).
 
   >自由主义信念的基础信条被摧毁了。
 
   主干：The tenets have been shattered.
+
+  **高亮部分说明：** *定冠词the+名词——后方无定语/定从做进一步解释，则其指代上句的名词* 
 
 * Technologicial advences are **reducing** ever(曾经) more ares of work **into** meaningless drudgery.
 
@@ -123,9 +127,9 @@ author: Joey
 
 * Equality of opportunity has produced a new meritcratic aristocracy **that has all the aloofness of old aristocracy ==with none of its sense of noblesse oblige==. ** 
 
-  > 机会均等造就了一种精英阶层新贵，他们像老贵族一样高傲冷漠，却没有老式贵族的贵族阶层的义务。
+  > 机会均等造就了一种精英阶层新贵，他们像老贵族一样高傲冷漠，却没有老式贵族的贵族阶层的责任感。
 
-  为什么高亮部分修饰的是new aristocracy 而不是 old aristocracy 呢？
+  **为什么高亮部分修饰的是new aristocracy 而不是 old aristocracy 呢？**
 
   我的答案：由接下来的“ Democracy has degenerated into a theatre of the absurd. ” 可知，民主退化了，那么肯定是新贵族没有老贵族做的好，民主才会退化，因此高亮部分修饰的是new aristocracy 而不是 old aristocracy。
 
@@ -143,6 +147,10 @@ author: Joey
 
 * Mr. Deneen's oppinion
   * a mix of hubris and internal contradictions.
+
+    > * Equality of opportunity has produced a new meritcratic aristocracy that has all the aloofness of old aristocracy with none of its sense of noblesse oblige.
+    > *   Technologicial advences are reducing ever more ares of work into meaningless drudgery.
+
   * the collective dissatisfaction of the current chaotic society.
     1. left-wing complaints
     2. right-wing complaints
@@ -180,7 +188,12 @@ author: Joey
 
 * Up your game.
 
+***
 
+### Part 2：Questions：
+
+1. What is the funding tenets of the liberalism ？
+2. What makes the tenets shatter ？
 
 
 
@@ -195,4 +208,5 @@ author: Joey
 ## 注意
 
 * though/as/althought 引导的让步状语从句 ——**不重要**
+* 文章中**上下句间**、**上下段间** 存在大量的同义替换
 
