@@ -27,7 +27,7 @@ author: Joey
 11. add up to = lead to
 12. fatal = deadly ：致命的
 13. drawback = flaw
-14. constraint = limit
+14. constraint = limit = restrict
 15. trade off =get rig of ：摆脱
 16. intricate = complex
 17. perk = benefit
@@ -85,6 +85,19 @@ author: Joey
 42. greed ：贪婪
 43. share options ：权利共享
 44. remind ：提醒
+45. unity ： 统一性
+46. underlie = base on
+47. philosophy ：哲学
+48. dictate = order = command
+49. rights-bearing ：拥有权利
+50. consent = agree
+51. paradox = contradiction = conflict
+52. inherit ：继承，传承 ——successor ：继任者
+53. confront = face or meet or oppose
+54. fulfill = fulfil = realize(or =obey)
+55. secure = protect
+56. mechanically ：机械地
+57. extreme ：极端的
 
 ***
 
@@ -108,9 +121,15 @@ author: Joey
 
   主干：Technological advances are reducing work into drudgery.
 
+* Equality of opportunity has produced a new meritcratic aristocracy **that has all the aloofness of old aristocracy ==with none of its sense of noblesse oblige==. ** 
+
+  > 机会均等造就了一种精英阶层新贵，他们像老贵族一样高傲冷漠，却没有老式贵族的贵族阶层的义务。
+
+  为什么高亮部分修饰的是new aristocracy 而不是 old aristocracy 呢？
+
+  我的答案：由接下来的“ Democracy has degenerated into a theatre of the absurd. ” 可知，民主退化了，那么肯定是新贵族没有老贵族做的好，民主才会退化，因此高亮部分修饰的是new aristocracy 而不是 old aristocracy。
+
 * 
-
-
 
 ***
 
@@ -128,6 +147,38 @@ author: Joey
     1. left-wing complaints
     2. right-wing complaints
     3. general worries
+
+### The auther hold that
+
+* Mr. Deneen’s fatal flaw
+
+  * His definition of the liberalism is wrong.
+
+    > * What's his definition of the liberalism ?
+    >
+    >   > He argues that the essence of liberalism lies in freeing individuals from constraints.
+    >
+    > * Why the auther hold that it's wrong ?
+    >
+    >   > Because individuals have intricate correlations with the social constraints.
+
+  * His failure to  recognize liberalism's ability to reform itself and address its internal problem.
+
+  * He argues that the only way for people to liberate themselvese from the contradictions of liberalism is " liberation from liberalism itself ".
+
+* Mr. Deneen's right point
+
+  * He points out that the record of liberalism in recent years has been dismal.
+
+  * He assert that the world has much to learn from the premodern notions liberty as self-mastery and self-denial.
+
+    > The bigger enemy of liberalism is greed.——The auther.
+
+  
+
+### How
+
+* Up your game.
 
 
 
