@@ -27,7 +27,7 @@ author: Joey
 11. add up to = lead to
 12. fatal = deadly ：致命的
 13. drawback = flaw
-14. constraint = limit = restrict
+14. constraint = limit = restrict = restraint
 15. trade off =get rig of ：摆脱
 16. intricate = complex
 17. perk = benefit
@@ -36,6 +36,10 @@ author: Joey
 20. drive ...of = defeat ...
 21. atomisation = selfishness
 22. capture = catch
+23. vague= implicit ：模糊的
+24. distinction = difference
+25. camp = category
+26. fixation = faith ：执着
 
 ***
 
@@ -61,7 +65,7 @@ author: Joey
 18. chaotic ：混乱的
 19. repetition ：重复
 20. identify A with B =regard A as B
-21. self-mastery ：自我控制——mastery ：控制，精练
+21. self-mastery = self-control ：自我控制——mastery = control ：控制，精练
 22. self-expression：自我表现 
 23. conquest ：征服
 24. indulgence ：放纵
@@ -86,26 +90,34 @@ author: Joey
 43. share options ：权利共享
 44. remind ：提醒
 45. unity ： 统一性
-46. underlie = base on
+46. underlying = potential ：潜在的——underlie = base on
 47. philosophy ：哲学
 48. dictate = order = command
-49. rights-bearing ：拥有权利
+49. rights-bearing ：拥有权利 ——bearing ：拥有
 50. consent = agree
 51. paradox = contradiction = conflict
 52. inherit ：继承，传承 ——successor ：继任者
 53. confront = face or meet or oppose
 54. fulfill = fulfil = realize(or =obey)
-55. secure = protect
+55. secure = protect = ensure
 56. mechanically ：机械地
 57. extreme ：极端的
 58. gap ：代沟、鸿沟
-59. occupy :
+59. occupy = take up ：占据
+60. popular ：流行的，通俗的
+61. term：学期、术语
+62. trace to ：追溯到
+63. ruling = governing ：统治——government <--反义-->civil rights 
+64. conceive of = think of
+65. trade off 权衡
+66. atomization = selfish
+67. corruption ：腐败
 
 ***
 
     ### 专业词汇
 
-1. Notre Dame：圣母大学
+1.  Notre Dame：圣母大学
 
 ***
 
@@ -113,7 +125,7 @@ author: Joey
 
 * The founding(*basic*) tenets(*principle*、*doctrine*) of ==the faith=== have been shattered(*destroy*、*collapse*).
 
-  >自由主义信念的基础信条被摧毁了。
+  >自由主义的基础信条被摧毁了。
 
   主干：The tenets have been shattered.
 
@@ -192,7 +204,7 @@ author: Joey
 
 ### Part 2：Questions：
 
-1. What is the funding tenets of the liberalism ？
+1. What is the founding tenets of the liberalism ？
 2. What makes the tenets shatter ？
 
 
@@ -209,4 +221,7 @@ author: Joey
 
 * though/as/althought 引导的让步状语从句 ——**不重要**
 * 文章中**上下句间**、**上下段间** 存在大量的同义替换
+* 左翼(leftish) 就是倾向平等
+* **A，B，C——只要A+C是完整的语法结构，则B为插入语，可忽视**
+* **A : B 相互解释说明，重点在内容明确的部分**
 
