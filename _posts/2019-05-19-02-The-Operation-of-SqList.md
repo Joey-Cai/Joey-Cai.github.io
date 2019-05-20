@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "顺序表的增删查"
+categories: Data Structure
+tags:  SqList
+author: Joey
+---
+
 # 顺序表的增删查
 
 ~~~C++
