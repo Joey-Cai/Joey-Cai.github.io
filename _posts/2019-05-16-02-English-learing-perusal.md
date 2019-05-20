@@ -115,7 +115,7 @@ author: Joey
 
 ***
 
-    ### 专业词汇
+### 专业词汇
 
 1.  Notre Dame：圣母大学
 
