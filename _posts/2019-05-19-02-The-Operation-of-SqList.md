@@ -8,7 +8,7 @@ author: Joey
 
 # 顺序表的增删查
 
-~~~C++
+~~~c++
 #include<stdio.h>
 #include<malloc.h>
 #include<stdlib.h>
