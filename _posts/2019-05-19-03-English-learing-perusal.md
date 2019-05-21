@@ -16,7 +16,7 @@ author: Joey
 
 1. launch = start = take off
 2. plant = factory
-3. down tools = go on a strike
+3. down tools = go on a strike：罢工
 4. nudge = urge
 5. classify = sort
 6. overt = obvious = clear
@@ -27,6 +27,7 @@ author: Joey
 11. steer clear of = stay away from
 12. schmoozing = chatting
 13. cultivating = fostering
+14. entitle = give：赋予
 
 ***
 
@@ -36,9 +37,9 @@ author: Joey
 2. sew：缝纫
 3. recognition：认同 = acknowledgement = respect
 4. dismissal：鄙视 = contempt
-5. bill、Act：法案
+5. Bill = Act：法案
 6. start over
-7. contrary：相反的
+7. contrary to：与...不同
 8. immutable ：不变的——mutable：易变的
 9. discrimination：歧视
 10. sexism：性别歧视
@@ -46,12 +47,36 @@ author: Joey
 12. lingering = constant：持续的
 13. maternity leave ：产假
 14. be blamed for：为...负责
+15. popular：
+    * 流行的
+    * 通俗的
+    * 大众的
+16. regard：
+17. lump A in with B：把A和B归为一类
+18. rate：
+    * 速率
+19. empathy：共情，同理心，换位思考——empathize：感同身受
+20. parliament = Congress ：议会，国会
+21. counterpart：同事
+22. brief：评论
+23. insult on injury：落井下石
+24. belittle = underestimate = underrate：轻视
+25. parity = equality
+26. dispose ：处置，处理
+27. dispute：争议
+28. corrosive：讽刺
+29. reckon：算账、清算
+30. mortify = contempt
+31. invite = bring about：带来
+32. speculation = 猜疑
+33. lousy：令人讨厌的
 
 ***
 
 ### 专业词汇  
 
-1.  
+1.  Ford ：福特汽车
+2.  the City：英国伦敦的商界圈
 
 ***
 
@@ -59,82 +84,23 @@ author: Joey
 
 * 
 
-
 ***
 
 ## 文章主旨及段落主旨概括
 
-### what
-
-**The liberalism is disintegrating.**
-
-### why
-
-* Mr. Deneen's oppinion
-  * a mix of hubris and internal contradictions.
-
-    > * Equality of opportunity has produced a new meritcratic aristocracy that has all the aloofness of old aristocracy with none of its sense of noblesse oblige.
-    > *   Technologicial advences are reducing ever more ares of work into meaningless drudgery.
-
-  * the collective dissatisfaction of the current chaotic society.
-    1. left-wing complaints
-    2. right-wing complaints
-    3. general worries
-
-### The auther hold that
-
-* Mr. Deneen’s fatal flaw
-
-  * His definition of the liberalism is wrong.
-
-    > * What's his definition of the liberalism ?
-    >
-    >   > He argues that the essence of liberalism lies in freeing individuals from constraints.
-    >
-    > * Why the auther hold that it's wrong ?
-    >
-    >   > Because individuals have intricate correlations with the social constraints.
-
-  * His failure to  recognize liberalism's ability to reform itself and address its internal problem.
-
-  * He argues that the only way for people to liberate themselvese from the contradictions of liberalism is " liberation from liberalism itself ".
-
-* Mr. Deneen's right point
-
-  * He points out that the record of liberalism in recent years has been dismal.
-
-  * He assert that the world has much to learn from the premodern notions liberty as self-mastery and self-denial.
-
-    > The bigger enemy of liberalism is greed.——The auther.
-
-  
-
-### How
-
-* Up your game.
-
-***
-
-### Part 2：Questions：
-
-1. What is the founding tenets of the liberalism ？
-2. What makes the tenets shatter ？
+1. 
 
 
 
 ## 题型
 
-### 1. 段落内出现的逆向考察
-
-1. 定位点所在单句内出现代词(如this)等提示词时，真正的考点往往需要回看之前的内容
-
-   >2012年 Text3 Q12
+### 1.
 
 ## 注意
 
-* though/as/althought 引导的让步状语从句 ——**不重要**
-* 文章中**上下句间**、**上下段间** 存在大量的同义替换
-* 左翼(leftish) 就是倾向平等
-* **A，B，C——只要A+C是完整的语法结构，则B为插入语，可忽视**
-* **A : B 相互解释说明，重点在内容明确的部分**
+* 英语一中喜欢**在首段用例证引出全文讨论点，但未必是全文主旨** 
+* 否定+解释
+* 明确细节：带有时间/数字/专名的内容(不重要)
+* 对比+解释是重要内容
+* 段落的核心重要性最高
 

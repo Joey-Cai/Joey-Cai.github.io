@@ -1,0 +1,32 @@
+​	Fifty years ago this spring, the sewing machinists at Ford’s Dagenham *plant(=factory)* famously *downed tools=(go on a strike)* and *in doing so(=through strike)* changed history. But contrary to popular *belief(=opinion)*, ==the strike that *nudged(urge)* Barbara Castle into creating the Equal Pay *Act(=Bill)* didn't start over equal pay. It was originally a demand for **recognition(=acknowledgement)**==, for the women who *stitched(=sewed)* Ford’s car seats to be acknowledged for what they really were. A regrading exercise had <u>*classified(=sorted)*</u> the men on the factory floor <u>as</u> skilled workers *entitled(=give)* to higher rates, but **lumped** the women **in with** janitors as unskilled labor. It was the casual **dismissal(=contempt=look down upon)** of what they did that rankled.
+
+> * 在首段用例证引出全文讨论点，但未必是全文主旨
+
+​	Eventually, the women returned to work for 92% of the men’s pay but it took another 16 years, and a second strike, to get what they wanted**:** recognition that they were just as skilled as the men, that their work should be taken seriously. It was never just about the money.
+
+​	Carrie Gracie is paid an awful lot more than any machinist will ever earn, and some will struggle to *empathize(empathy)* with the BBC’s former China editor as a result. But if you listened carefully this week, you could hear the echoes rolling down the years as she told parliament(=congress) about what happened after she realized she was earning 50% less than two male counterparts. Her bosses not only lied to her and briefed against her, she claimed, but when pushed to justify their decision piled “insult on injury” by *belittling(=underestimating = underrating = looking down upon)* her work. Humiliatingly, she was told she’d been paid less because she was “in development”, despite having been with the BBC for decades.
+
+​	When the BBC finally got its checkbook out, Gracie rejected what for most people would be a life-changing amount of money (although it still fell short of parity with the men) on principle. It wasn't about the money, she said. She just wanted it to acknowledge that she was as good as anyone else.
+
+​	And that’s why equal pay disputes are so corrosive; why we can expect a period of angry reckoning in April, when all large companies will have to produce anonymized data on male versus female salaries. Being systematically underpaid isn't just unfair, but insulting. It says that you’re disposable, that nobody really rates you or cares if you leave. And the worst thing about being treated with this kind of contempt is that it fosters a terrible, nagging self-doubt. Even to go public about being underpaid is mortifying, because it only invites speculation about what might be wrong with you; it’s like admitting to being eternally single in a room full of pitying smug marrieds. Maybe they’re right and, in some way that everyone seems mysteriously unable to specify, you aren't quite good enough. At the very least, you must be a lousy negotiator.
+
+​	Yet as the City high-flyer Helena Morrissey points out in her new book, A Good Time to Be a Girl, telling women to get better at asking for money is a cop-out (and not just since most people are paid a set rate rather than secretly negotiating their own). What’s so smart about throwing money at whoever shouts loudest? Why don’t managers get better at managing, establishing clear criteria against which objective judgments can be made, so everyone knows where they stand? Tellingly, Gracie recalls how her bosses couldn’t show her any “robust benchmarks” to explain why men’s jobs were deemed more valuable than hers, making it impossible for her to know whether they had reached their decision fairly.
+
+​	Half a century on from the Dagenham strike, the overt discrimination of the 60s isn't quite dead but it’s rare. Women are no longer routinely told to their faces that they’re only working for “pin money”, that they should be ashamed of taking work from men with families to feed. All the research suggests that pure, old-fashioned sexism explains only a small part of the pay gap now; that career choices, plus a range of indirect and sometimes unwitting forms of discrimination, tied up with the personal choices men and women make, weigh more heavily.
+
+​	But choice is a loaded word in this context. Choosing to have children carries a hefty pay penalty, especially if you then go part-time – but there is no immutable law that says it must do. The gap could be further narrowed if there wasn’t a lingering resistance in many companies to making part-time jobs available at senior levels, and to advertising jobs as flexible where there’s no good reason not to. Employers have a choice, too, over whether to sideline or punish women for having the temerity to take maternity leave.
+
+​	And then there are all the other kinds of choices, which have less to do with children than with what is deemed to matter in working life. Women who choose to steer clear of office politics, a headhunter once told me, often don’t realise that by doing so they’re shooting themselves in the foot; that’s where the deals get done. Women who’d rather get on with the job in hand than spend their evenings networking and schmoozing lose out in careers where cultivating a professional profile is important, from politics or the City to the more media-conscious branches of academia and medicine.
+
+​	Are these the skills we should be choosing to reward? The choices of those who determine pay – who decide that working a sewing machine is more or less important than manning a car production line, or Donald Trump is a bigger story than China – deserve at least as much scrutiny as the choices of their employees.
+
+​	And that, in a nutshell, is what’s so unsatisfying about the BBC row – all the wrong people are in the spotlight. We have spent too long demanding that famous faces justify what they earn, rather than asking their anonymous managers to justify what they pay. It’s not enough for salaries to be transparent if the assumptions underpinning them are shrouded in mystery. For if nobody will tell you the rules of the game, then it’s impossible to know if somebody somewhere is cheating.
+
+
+
+
+
+
+
+
+  
